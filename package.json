@@ -1,6 +1,7 @@
 {
   "name": "pi-swapper",
   "version": "1.0.0",
+  "author": "Jedai Saboteur <paradoxinversion@gmail.com> (https://paradoxinversion.com)",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
@@ -9,5 +10,9 @@
   },
   "scripts": {
     "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paradoxinversion/pi-swapper.git"
   }
 }
